@@ -1,4 +1,6 @@
-Hello!
-Repeat
-Hello 17.12.2018
-print('Hi!')
+Hello!;
+Repeat;
+Hello 17.12.2018;
+print('Hi!');
+
+
